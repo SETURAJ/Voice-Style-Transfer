@@ -1,6 +1,6 @@
 # Mandarin Voice Style Transfer Demo
 
-This repository demonstrates the Mandarin demo of CS679 voice style transfer project. 🐱 
+This repository demonstrates the Mandarin demo of voice style transfer project. 🐱 
 
 ## Overview
 
